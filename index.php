@@ -24,4 +24,5 @@ echo "ashan";
 ?>
 <br>
 <button type="button" class="btn btn-dark">Click Me</button>
+<button type="button" class="btn btn-danger">Click Me</button>
 <?php  require 'includes/footer.php'?>
